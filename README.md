@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Falco300
+- 👋 Hi, I’m @alfalconetti
 - 👀 I’m interested in bioinformatics but also general automation stuff, also using Raspberry Pi
 - 🌱 I’m currently learning Python and R
   
